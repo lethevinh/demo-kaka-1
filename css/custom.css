@@ -1,0 +1,10 @@
+#site-logo img {
+    height: 90px;
+    width: 90px;
+}
+.footer-logo {
+    max-width: 100px;
+}
+.side-panel-block .the-logo img {
+    width: 120px;
+}
